@@ -1,0 +1,55 @@
+/*back div styling is here*/
+.red{
+	width:76%;
+	height:425px;
+	margin-left:110px;
+	background-color:;
+	position:fixed;
+}
+/*styling of table is goes here*/
+table,th,td{
+	border:2px solid white;
+	border-collapse:collapse;
+	padding:15px;
+	text-align:center;
+	margin-left:25px;
+	margin-top:10px;
+}
+/*empty cell style is here*/
+.blue{
+	background-color:white;
+}
+/*styling of table head is here*/
+th{
+	background-color:#5d9801ba;
+	color:white;
+	padding:20px;
+	border-top-left-radius:8px;
+	border-top-right-radius:8px;
+}
+/*styling of table data is here*/
+td{
+	background-color:#82f91738;
+	font-weight:bold;
+	border-bottom-right-radius:5px;
+}
+/*styling of class zoo is here*/
+.zoo{
+	background-color:#5d9801ba;
+	color:white;
+	font-weight:bold;
+	border-top-left-radius:8px;
+	border-bottom-left-radius:8px;
+}
+/*styling of class far*/
+.far {
+	color:#66b10f;
+	font-size:15px;
+}
+/*styling of class ram*/
+.ram td{
+	background-color:white;
+	color:#66b10f;
+	font-size:30px;
+	font-weight:900;
+}
